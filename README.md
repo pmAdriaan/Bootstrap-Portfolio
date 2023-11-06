@@ -27,8 +27,8 @@
 - [🚀 Getting Started](#-getting-started)
     - [🔧 Installation](#-installation)
     - [🤖 Running portfolio](#-running-portfolio)
-    - [🌐 Live Demo Bootstrap-Portfolio Website](#-live-portfolio-website)
-    - [📸 Bootstrap-Portfolio Screenshot ](#-portfolio-screenshot)
+    - [🌐 Live Demo Bootstrap-Portfolio Website](#-live-demo-bootstrap-portfolio-website)
+    - [📸 Bootstrap-Portfolio Screenshot ](#-bootstrap-portfolio-screenshot)
 - [🛣 Project Roadmap](#-project-roadmap)
 - [📄 License](#-license)
 
