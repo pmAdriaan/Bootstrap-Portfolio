@@ -123,7 +123,7 @@ cd Bootstrap-Portfolio
 ► [Bootstrap-Portfolio](https://pmadriaan.github.io/Bootstrap-Portfolio/)
 
 
-## 📸 Portfolio Screenshot
+## 📸 Bootstrap-Portfolio Screenshot
 
 ![Bootstrap-Portfolio Screenshot](./images/bootstrap-portfolio_screenshot.png?raw=true "Bootstrap-Portfolio")
 
