@@ -216,3 +216,47 @@ footer {
   footer span:hover {
     text-decoration: underline;
   }
+
+  /* Media Query for small Screens */
+@media screen and (max-width: 1200px) {
+  .card-img-top {
+    height: 25vw;
+  }
+  section {
+    padding: 10px 0;
+  }
+
+  #hero-intro {
+    padding-top: 30px;
+    height: 50vh;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .card-img-top {
+    height: 30vw;
+  }
+  #hero-intro {
+    padding-top: 50px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .card-img-top {
+    border: var(--lightColor) 1px solid;
+    height: 50vw;
+  }
+  .card-img-top:hover {
+    transform: scale(1.01);
+    border: var(--lightColor) 1px solid;
+  }
+  .mt-5 {
+    margin-top: 1rem !important;
+  }
+  .pt-5 {
+    padding-top: 1rem !important;
+  }
+  #hero-intro {
+    padding-top: 80px;
+  }
+}
