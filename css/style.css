@@ -162,6 +162,39 @@
   background-color: var(--sectionColor) !important;
 }
 
+/* About me Section Styles */
+.about-bg {
+  background-color: var(--sectionColor);
+  border-radius: 10px;
+}
+
+.about-text {
+  font-size: var(--font-size-md);
+}
+
+.about-round-img {
+  border-radius: 50%;
+  width: 50%;
+  height: 50%;
+  transform: scaleX(-1);
+}
+
+/* Contact Section Styles */
+.contact-bg {
+  background-color: var(--sectionColor);
+  border-radius: 10px;
+}
+
+.contact-social-icon {
+  filter: invert(1);
+  transition: transform 0.5s;
+}
+
+.contact-social-icon:hover {
+  transform: scale(1.2);
+  filter: invert(0.9);
+}
+
 /* Footer styles */
 footer {
     margin-top: 100px;
