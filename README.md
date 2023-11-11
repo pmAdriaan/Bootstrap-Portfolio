@@ -142,6 +142,7 @@ cd Bootstrap-Portfolio
 ## 📄 License
 
 Copyright © 2023 Mihai-Adrian P.
+
 This project is licensed under the `ℹ️  MIT-License`. See the [MIT License](https://github.com/pmAdriaan/Bootstrap-Portfolio/blob/main/LICENSE) file for additional info.
 
 ---
