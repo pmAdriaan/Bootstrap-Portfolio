@@ -27,8 +27,8 @@
 - [🚀 Getting Started](#-getting-started)
     - [🔧 Installation](#-installation)
     - [🤖 Running portfolio](#-running-portfolio)
-    - [🌐 Live Demo Bootstrap-Portfolio Website](#-live-portfolio-website)
-    - [📸 Bootstrap-Portfolio Screenshot ](#-portfolio-screenshot)
+    - [🌐 Live Demo Bootstrap-Portfolio Website](#-live-demo-bootstrap-portfolio-website)
+    - [📸 Bootstrap-Portfolio Screenshot ](#-bootstrap-portfolio-screenshot)
 - [🛣 Project Roadmap](#-project-roadmap)
 - [📄 License](#-license)
 
@@ -123,7 +123,7 @@ cd Bootstrap-Portfolio
 ► [Bootstrap-Portfolio](https://pmadriaan.github.io/Bootstrap-Portfolio/)
 
 
-## 📸 Portfolio Screenshot
+### 📸 Bootstrap-Portfolio Screenshot
 
 ![Bootstrap-Portfolio Screenshot](./images/bootstrap-portfolio_screenshot.png?raw=true "Bootstrap-Portfolio")
 
@@ -142,6 +142,7 @@ cd Bootstrap-Portfolio
 ## 📄 License
 
 Copyright © 2023 Mihai-Adrian P.
+
 This project is licensed under the `ℹ️  MIT-License`. See the [MIT License](https://github.com/pmAdriaan/Bootstrap-Portfolio/blob/main/LICENSE) file for additional info.
 
 ---
